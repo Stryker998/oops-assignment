@@ -47,7 +47,7 @@ public:
 };
 
 int main() {
-    const int NUM_BOOKS = 2;
+    const int NUM_BOOKS = 10;
     BOOK books[NUM_BOOKS];
 
     for (int i = 0; i < NUM_BOOKS; i++) {
